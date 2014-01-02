@@ -1,6 +1,8 @@
-When: Open Data Day, Saturday, February 22nd
+Open Data Day
 
-Venue: TBC
+**When**: Saturday, February 22nd, 2014
+
+**Venue**: TBC
 
 Registration page: https://tito.io/open-data-ireland/international-open-data-day-in-ireland---feb-22nd
 
